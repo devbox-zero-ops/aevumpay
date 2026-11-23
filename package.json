@@ -1,0 +1,1 @@
+{"name":"aevumpay","version":"1.0.0","type":"module","description":"Trustless tUSD8 Invoice Payment & Confirmation-of-Payee Escrow on QDay Aevum Testnet (Chain ID 44005)","dependencies":{"solc":"^0.8.20"}}
